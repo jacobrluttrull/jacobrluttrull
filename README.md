@@ -1,62 +1,49 @@
 # Hi there 👋 I'm Jacob Luttrull
 
 📧 **Email:** jacobrluttrull@gmail.com  
-📍 **Location:** Ohio, United States  
+📍 **Location:**  NW Ohio, United States  
 
-I am a 22 year old programmer trying to improve my programming skills through consistent work and dedication to be better everyday I can. I am currently doing the Scientific Computing for Python course on freecodecamp and currently 5 projects in as you can see below. I am a student at WGU CS program 2 courses away from passing and looking to network and learn more about programming. 
+I'm a 22-year-old programmer trying to improve my programming skills through consistent work and dedication to be better every day. I'm currently taking the [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course on freeCodeCamp and have completed 5 projects so far. I’m also a Computer Science student at WGU, just two courses away from graduating.
 
 ---
 
-## 🎓 WGU Coursework Highlights
+## 🎓 Relevant Coursework (WGU - B.S. Computer Science)
 
-As part of WGU’s ABET-accredited Bachelor of Science in Computer Science, I’ve completed core courses in:
-
-- **Programming & Software Engineering**  
-  - Data Structures & Algorithms I & II  
-  - Software Engineering  
+- **Programming & Development**  
+  - Scripting & Programming (Foundations + Applications)  
+  - Java Fundamentals, Frameworks, & Advanced Java  
   - Web Development Foundations  
-  - Secure Software Design  
-  - Scripting & Programming in Java
+  - Back-End Programming  
+  - Software Engineering  
+  - Software Design & Quality Assurance
 
-- **Systems & Architecture**  
-  - Operating Systems  
+- **Computer Science Core**  
+  - Data Structures & Algorithms I & II  
   - Computer Architecture  
+  - Operating Systems for Programmers  
   - Linux Foundations  
-  - Computer Networks  
-  - Information Security Fundamentals
-
-- **Mathematics & Logic**  
-  - Discrete Math I & II  
-  - Calculus I  
-  - Introduction to Probability and Statistics
-
-- **AI & Emerging Tech**  
-  - Introduction to Artificial Intelligence  
-  - Advanced AI & Machine Learning  
-  - Natural Language Processing (NLP)
+  - Fundamentals of Information Security  
+  - Introduction to Artificial Intelligence *(in progress)*
 
 ---
 
-## 📜 Certifications Earned
+## 📜 Certifications
 
 - ✅ **ITIL® 4 Foundations** – AXELOS  
-- ✅ **Linux Essentials** – LPI (Linux Professional Institute)  
-- ✅ **Java Programming** – WGU internal certification  
+- ✅ **Linux Essentials** – LPI  
+- ✅ **Java Programming** – WGU Internal  
 
 ---
 
-## 💻 Core Interests
+## 💻 Focus Areas
 
-- Backend Development (Python / Java / Spring Boot)  
-- Software Design Principles & Testing  
-- Python Scripting & Automation  
-- Algorithms & Data Structures  
-- Learning & applying Machine Learning (up next)
+- Python scripting and backend development  
+- Java + Spring Boot development  
+- Data structures and algorithmic problem solving  
+- Software testing and maintainable code practices  
+- Expanding into Machine Learning & AI (next steps)
 
 ---
 
-## 🚀 Current Focus
-
-- Building Python projects through freeCodeCamp’s Scientific Computing track  
-- Writing clean, maintainable code with unit testing  
-- Preparing to explore AI/ML using PyTorch & TensorFlow  
+📫 **Let’s Connect!**  
+Open to networking and collaborating on Python or backend projects.
