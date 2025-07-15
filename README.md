@@ -1,68 +1,62 @@
 # Hi there 👋 I'm Jacob Luttrull
 
 📧 **Email:** jacobrluttrull@gmail.com  
-📍 **Location:** Montpelier, Ohio 43543
+📍 **Location:** Ohio, United States  
 
-I'm a 22-year-old Computer Science student about to graduate from WGU. I focus on clean, well-documented code and love solving problems with Python and Java. I have strong experience with **Python**, **Java**, and **Spring Boot**, and I’m currently sharpening my Python skills through freeCodeCamp’s Scientific Computing with Python certification.
+I am a 22 year old programmer trying to improve my programming skills through consistent work and dedication to not be mediocre. I am currently doing the Scientific Computing for Python course on freecodecamp and currently 5 projects in as you can see below. I am a student at WGU CS program 2 courses away from passing and looking to network and learn more about programming. 
+
+---
+
+## 🎓 WGU Coursework Highlights
+
+As part of WGU’s ABET-accredited Bachelor of Science in Computer Science, I’ve completed core courses in:
+
+- **Programming & Software Engineering**  
+  - Data Structures & Algorithms I & II  
+  - Software Engineering  
+  - Web Development Foundations  
+  - Secure Software Design  
+  - Scripting & Programming in Java
+
+- **Systems & Architecture**  
+  - Operating Systems  
+  - Computer Architecture  
+  - Linux Foundations  
+  - Computer Networks  
+  - Information Security Fundamentals
+
+- **Mathematics & Logic**  
+  - Discrete Math I & II  
+  - Calculus I  
+  - Introduction to Probability and Statistics
+
+- **AI & Emerging Tech**  
+  - Introduction to Artificial Intelligence  
+  - Advanced AI & Machine Learning  
+  - Natural Language Processing (NLP)
+
+---
+
+## 📜 Certifications Earned
+
+- ✅ **ITIL® 4 Foundations** – AXELOS  
+- ✅ **Linux Essentials** – LPI (Linux Professional Institute)  
+- ✅ **Java Programming** – WGU internal certification  
 
 ---
 
 ## 💻 Core Interests
 
-- Backend Development  
-- Software Design Principles  
-- Clean Code & Testing  
-- Python Automation  
+- Backend Development (Python / Java / Spring Boot)  
+- Software Design Principles & Testing  
+- Python Scripting & Automation  
 - Algorithms & Data Structures  
+- Learning & applying Machine Learning (up next)
 
 ---
 
-## 🎓 Academic Background
+## 🚀 Current Focus
 
-- **Bachelor of Science in Computer Science**, WGU (Graduating Soon)  
-- Completed WGU's core CS curriculum covering topics like:  
-  - Software Engineering  
-  - Data Structures and Algorithms  
-  - Databases (SQL & NoSQL)  
-  - Web Development  
-  - Operating Systems  
-
----
-
-## 🐍 Python Projects
-
-This repo serves as my Python project journal as I progress through freeCodeCamp's Scientific Computing with Python track. Each script builds on key programming concepts in a bite-sized, digestible way. Whether it’s algorithms, CLI tools, or data handling, these projects are building blocks for my Python journey.
-
----
-
-## ✅ Curriculum Topics
-
-You will learn and apply:
-
-- Python syntax and semantics  
-- Data types and data structures  
-- Loops and conditionals  
-- Functions and modules  
-- Object-Oriented Programming (OOP)  
-- Algorithms and data processing  
-
----
-
-## 📁 Completed Projects
-
-| Project Name                                | Description                                                                 | Status       |
-|--------------------------------------------|-----------------------------------------------------------------------------|--------------|
-| `luhn_checker.py`                          | Validates credit card numbers using the Luhn algorithm                      | ✅ Completed |
-| `freecodecampcipher.py`                    | Implements a basic cipher encryption system (e.g. Vigenère)                 | ✅ Completed |
-| `ExpenseCliTracker.py`                     | CLI app to add, list, total, and filter expenses by category                | ✅ Completed |
-| `ConvertToSnakeWithListComp.py`            | Converts camelCase strings to snake_case using list comprehension           | ✅ Completed |
-| `arithmetic_formatter_project/formatter.py`| Formats arithmetic problems vertically per FreeCodeCamp certification specs | ✅ Completed |
-
----
-
-## 🛠️ How to Run
-
-Make sure you're using Python 3. Then run any file like this:
-
-```bash
-python project_name.py
+- Building Python projects through freeCodeCamp’s Scientific Computing track  
+- Writing clean, maintainable code with unit testing  
+- Preparing to explore AI/ML using PyTorch & TensorFlow  
