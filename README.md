@@ -3,7 +3,7 @@
 📧 **Email:** jacobrluttrull@gmail.com  
 📍 **Location:** Ohio, United States  
 
-I am a 22 year old programmer trying to improve my programming skills through consistent work and dedication to not be mediocre. I am currently doing the Scientific Computing for Python course on freecodecamp and currently 5 projects in as you can see below. I am a student at WGU CS program 2 courses away from passing and looking to network and learn more about programming. 
+I am a 22 year old programmer trying to improve my programming skills through consistent work and dedication to be better everyday I can. I am currently doing the Scientific Computing for Python course on freecodecamp and currently 5 projects in as you can see below. I am a student at WGU CS program 2 courses away from passing and looking to network and learn more about programming. 
 
 ---
 
