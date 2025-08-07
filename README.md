@@ -3,7 +3,7 @@
 📧 **Email:** jacobrluttrull@gmail.com  
 📍 **Location:**  NW Ohio, United States  
 
-I'm a 22-year-old programmer trying to improve my programming skills through consistent work and dedication to be better every day. I'm currently taking the [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course on freeCodeCamp and have completed 12 projects so far. I’m also a Computer Science student at WGU, just two courses away from graduating.
+I'm a 22-year-old programmer trying to improve my programming skills through consistent work and dedication to be better every day. I'm currently taking the [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course on freeCodeCamp and have done 3-5 certification projects so far. I’m also a Computer Science student at WGU, and only the capstone away from graduating. 
 
 ---
 
