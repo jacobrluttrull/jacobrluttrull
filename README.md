@@ -1,14 +1,14 @@
-# Hi there 👋 I'm Jacob Luttrull
+# Hi there I'm Jacob Luttrull
 
-📧 **Email:** jacobluttrull2@gmail.com  
-📍 **Location:**  Montpelier Ohio, United States  
+ **Email:** jacobluttrull2@gmail.com  
+ **Location:**  Montpelier Ohio, United States  
 
 I'm a 22-year-old programmer trying to improve my programming skills through consistent work and dedication to be better every day. I'm currently taking the [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course on freeCodeCamp and have done 4 out of 5 certification projects so far. I also just graduated from WGU with a Bachelors in Computer Science.
 Please and go check my diabetic capstone project its something im actually really proud of.
 
 ---
 
-## 🎓 Relevant Coursework (WGU - B.S. Computer Science)
+##  Relevant Coursework (WGU - B.S. Computer Science)
 
 - **Programming & Development**  
   - Scripting & Programming (Foundations + Applications)  
@@ -28,7 +28,7 @@ Please and go check my diabetic capstone project its something im actually reall
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - ✅ **ITIL® 4 Foundations** – AXELOS  
 - ✅ **Linux Essentials** – LPI  
@@ -36,7 +36,7 @@ Please and go check my diabetic capstone project its something im actually reall
 
 ---
 
-## 💻 Focus Areas
+## Focus Areas
 
 - Python scripting and backend development  
 - Java + Spring Boot development  
@@ -45,6 +45,6 @@ Please and go check my diabetic capstone project its something im actually reall
 
 ---
 
-📫 **Let’s Connect!**  
+**Let’s Connect!**  
 Open to networking and collaborating on Python or backend projects.
 Message me anytime through my email!
