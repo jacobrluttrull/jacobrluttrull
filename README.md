@@ -3,8 +3,8 @@
  **Email:** jacobluttrull2@gmail.com  
  **Location:**  Montpelier Ohio, United States  
 
-I'm a 22-year-old programmer trying to improve my programming skills through consistent work and dedication to be better every day. I'm currently taking the [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/) course on freeCodeCamp and have done 4 out of 5 certification projects so far. I also just graduated from WGU with a Bachelors in Computer Science.
-Please and go check my diabetic capstone project its something im actually really proud of.
+I'm a 22-year-old programmer trying to improve my programming skills through consistent work and dedication to be better every day. I just completed the [Scientific Computing in Python] course from FreeCodeCamp with all the code for every project and exercise in a pinned repo. I will going through the ML Engineer Track on DataCamp and working through the Hands-On Machine Learning with Scikit-Learn & Tensflow book by Geron. I will have dedicated repos for those as well. 
+Please and go check my diabetic capstone project as it shows my best work to date. 
 
 ---
 
