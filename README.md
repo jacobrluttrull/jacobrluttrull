@@ -39,9 +39,8 @@ Please and go check my diabetic capstone project as it shows my best work to dat
 ## Focus Areas
 
 - Python scripting and backend development  
-- Java + Spring Boot development  
-- Data structures and algorithmic problem solving  
-- Expanding into Machine Learning & AI (next steps)
+- Django Web Framework
+- Golang next 
 
 ---
 
