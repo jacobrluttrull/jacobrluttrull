@@ -56,4 +56,4 @@ I'm a 22-year-old programmer trying to improve my programming skills through con
 ---
 
 **Let’s Connect!**  
-Open to networking and collaborating on Pyt
+Open to networking and collabing on backend or Python projects. Feel free to reach me directly through my email. 
