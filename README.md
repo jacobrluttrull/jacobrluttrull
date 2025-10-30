@@ -1,9 +1,9 @@
 # Hi there I'm Jacob Luttrull
 
  **Email:** jacobluttrull2@gmail.com  
- **Location:**  Montpelier Ohio, United States  
+ **Location:** Montpelier, Ohio, United States  
 
-I'm a 22-year-old programmer trying to improve my programming skills through consistent work and dedication to be better every day. I just completed the Scientific Computing in Python course from FreeCodeCamp and started the backend Python and Go track on Boot.dev. Please and go check my diabetic capstone project as it shows my best work to date. 
+I'm a 22-year-old programmer trying to improve my programming skills through consistent work and dedication to be better every day. I have completed Scientific Computing in Python on FreeCodeCamp and doing the coursetrack on boot.dev to learn backend development. I have projects links below showing my most recent projects. 
 
 ---
 
@@ -43,6 +43,17 @@ I'm a 22-year-old programmer trying to improve my programming skills through con
 
 ---
 
+## Projects
+
+- prod-diabetic-capstone — Diabetic capstone project  
+  - GitHub: https://github.com/jacobrluttrull/prod-diabetic-capstone  
+  - Repo reference: @jacobrluttrull/prod-diabetic-capstone
+
+- oklahoma_sooners_dashboard — Current project in progress  
+  - GitHub: https://github.com/jacobrluttrull/oklahoma_sooners_dashboard  
+  - Repo reference: @jacobrluttrull/oklahoma_sooners_dashboard
+
+---
+
 **Let’s Connect!**  
-Open to networking and collaborating on Python or backend projects.
-Message me anytime through my email!
+Open to networking and collaborating on Pyt
