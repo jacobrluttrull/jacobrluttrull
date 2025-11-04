@@ -37,7 +37,8 @@ I'm a 23-year-old programmer trying to improve my programming skills through con
 
 ## Focus Areas
 
-- Python scripting and backend development  
+- Python scripting and backend development
+- Work through entire boot.dev curriculum including the projects which will be on this GitHub
 - Django Web Framework
 - Golang next 
 
