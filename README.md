@@ -3,7 +3,7 @@
  **Email:** jacobluttrull2@gmail.com  
  **Location:** Montpelier, Ohio, United States  
 
-I'm a 22-year-old programmer trying to improve my programming skills through consistent work and dedication to be better every day. I have completed Scientific Computing in Python on FreeCodeCamp and doing the coursetrack on boot.dev to learn backend development. I have projects links below showing my most recent projects. 
+I'm a 23-year-old programmer trying to improve my programming skills through consistent work and dedication to be better every day. I have completed Scientific Computing in Python on FreeCodeCamp and doing the coursetrack on boot.dev to learn backend development. I have projects links below showing my most recent projects. 
 
 ---
 
