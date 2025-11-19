@@ -50,9 +50,11 @@ I'm a 23-year-old programmer trying to improve my programming skills through con
   - GitHub: https://github.com/jacobrluttrull/prod-diabetic-capstone  
   - Repo reference: @jacobrluttrull/prod-diabetic-capstone
 
-- oklahoma_sooners_dashboard — Basic Django dashboard application
+- oklahoma_sooners_dashboard — Oklahoma Sooners Staticstics Dashboard
   - GitHub: https://github.com/jacobrluttrull/oklahoma_sooners_dashboard  
   - Repo reference: @jacobrluttrull/oklahoma_sooners_dashboard
+  
+- Coming Soon???
 
 ---
 
