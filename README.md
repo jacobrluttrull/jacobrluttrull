@@ -54,7 +54,9 @@ I'm a 23-year-old programmer trying to improve my programming skills through con
   - GitHub: https://github.com/jacobrluttrull/oklahoma_sooners_dashboard  
   - Repo reference: @jacobrluttrull/oklahoma_sooners_dashboard
   
-- Coming Soon???
+- python_git - Make Your own Git
+  - Github: https://github.com/jacobrluttrull/python_git
+  - Repo reference: @jacobrluttrull/python_git
 
 ---
 
