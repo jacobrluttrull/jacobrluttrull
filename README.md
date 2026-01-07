@@ -1,64 +1,62 @@
-# Hi there I'm Jacob Luttrull
+# Hi, I'm Jacob Luttrull
 
- **Email:** jacobluttrull2@gmail.com  
- **Location:** Montpelier, Ohio, United States  
+**Email:** jacobluttrull2@gmail.com  
+**Location:** Montpelier, Ohio, United States  
 
-I'm a 23-year-old programmer trying to improve my programming skills through consistent work and dedication to be better every day. I have completed Scientific Computing in Python on FreeCodeCamp and doing the coursetrack on boot.dev to learn backend development. I have projects links below showing my most recent projects. 
+I'm a computer science graduate and backend-focused programmer actively strengthening my skills through consistent, hands-on project work. I have completed the **Scientific Computing with Python** curriculum on freeCodeCamp and am currently progressing through the **boot.dev backend development track**.
 
----
-
-##  Relevant Coursework (WGU - B.S. Computer Science)
-
-- **Programming & Development**  
-  - Scripting & Programming (Foundations + Applications)  
-  - Java Fundamentals, Frameworks, & Advanced Java  
-  - Web Development Foundations  
-  - Back-End Programming  
-  - Software Engineering  
-  - Software Design & Quality Assurance
-
-- **Computer Science Core**  
-  - Data Structures & Algorithms I & II  
-  - Computer Architecture  
-  - Operating Systems for Programmers  
-  - Linux Foundations  
-  - Fundamentals of Information Security  
-  - Introduction to Artificial Intelligence *(in progress)*
+This GitHub showcases recent and ongoing projects that reflect my focus on backend systems, problem-solving, and practical software design.
 
 ---
 
-##  Certifications
+## Relevant Coursework  
+**WGU — B.S. Computer Science**
 
-- ✅ **ITIL® 4 Foundations** – AXELOS  
-- ✅ **Linux Essentials** – LPI  
-- ✅ **Java Programming** – WGU Internal  
+### Programming & Software Development
+- Scripting & Programming (Foundations and Applications)
+- Java Fundamentals, Frameworks, and Advanced Java
+- Web Development Foundations
+- Back-End Programming
+- Software Engineering
+- Software Design & Quality Assurance
+
+### Computer Science Core
+- Data Structures & Algorithms I & II
+- Computer Architecture
+- Operating Systems for Programmers
+- Linux Foundations
+- Fundamentals of Information Security
+- Introduction to Artificial Intelligence *(in progress)*
 
 ---
 
-## Focus Areas
+## Certifications
+
+- **ITIL® 4 Foundations** — AXELOS  
+- **Linux Essentials** — Linux Professional Institute (LPI)  
+- **Java Programming** — WGU  
+
+---
+
+## Technical Focus
 
 - Python scripting and backend development
-- Work through entire boot.dev curriculum including the projects which will be on this GitHub
-- Django Web Framework
-- Golang next 
+- Building and completing end-to-end projects
+- Django web framework
+- Golang (planned next)
 
 ---
 
-## Projects
+## Selected Projects
 
-- prod-diabetic-capstone — Diabetic capstone project  
-  - GitHub: https://github.com/jacobrluttrull/prod-diabetic-capstone  
-  - Repo reference: @jacobrluttrull/prod-diabetic-capstone
+### **prod-diabetic-capstone** — Diabetes Prediction Capstone  
+Machine learning–driven application developed as a capstone project, focused on data processing, model training, and prediction workflows.  
+- GitHub: https://github.com/jacobrluttrull/prod-diabetic-capstone  
 
-- oklahoma_sooners_dashboard — Oklahoma Sooners Staticstics Dashboard
-  - GitHub: https://github.com/jacobrluttrull/oklahoma_sooners_dashboard  
-  - Repo reference: @jacobrluttrull/oklahoma_sooners_dashboard
-  
-- python_git - Make Your own Git
-  - Github: https://github.com/jacobrluttrull/python_git
-  - Repo reference: @jacobrluttrull/python_git
+### **oklahoma_sooners_dashboard** — College Football Statistics Dashboard  
+Backend-driven statistics dashboard aggregating and presenting team and performance data.  
+- GitHub: https://github.com/jacobrluttrull/oklahoma_sooners_dashboard  
 
----
-
-**Let’s Connect!**  
-Open to networking and collabing on backend or Python projects. Feel free to reach me directly through my email. 
+### **python_git** — Build Your Own Git (Python)  
+Educational implementation of core Git concepts to better understand version control internals.  
+- GitHub: https://github.com/jacobrluttrull/python_git  
