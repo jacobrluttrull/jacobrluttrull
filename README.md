@@ -3,7 +3,7 @@
 **Email:** jacobluttrull2@gmail.com  
 **Location:** Montpelier, Ohio, United States  
 
-I'm a computer science graduate and backend-focused programmer actively strengthening my skills through consistent, hands-on project work. I have completed the **Scientific Computing with Python** curriculum on freeCodeCamp and am currently progressing through the **boot.dev backend development track**.
+I'm a computer science graduate and backend-focused programmer actively strengthening my skills through consistent, hands-on project work. I have completed the **Scientific Computing with Python** certification through freeCodeCamp and continue expanding my technical knowledge through real-world application.
 
 This GitHub showcases recent and ongoing projects that reflect my focus on backend systems, problem-solving, and practical software design.
 
@@ -48,6 +48,10 @@ This GitHub showcases recent and ongoing projects that reflect my focus on backe
 ---
 
 ## Selected Projects
+
+### **AI_Bot** — AI Chatbot with Function Calling *(Work in Progress)*  
+Python-based chatbot utilizing Google's Gemini AI API with function calling capabilities. Demonstrates proficiency in API integration, argument parsing, and modular Python design with features like calculator functionality and extensible command handling.  
+- GitHub: https://github.com/jacobrluttrull/AI_Bot  
 
 ### **prod-diabetic-capstone** — Diabetes Prediction Capstone  
 Machine learning–driven application developed as a capstone project, focused on data processing, model training, and prediction workflows.  
