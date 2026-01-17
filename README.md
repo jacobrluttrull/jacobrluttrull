@@ -49,9 +49,9 @@ This GitHub showcases recent and ongoing projects that reflect my focus on backe
 
 ## Selected Projects
 
-### **AI_Bot** — AI Chatbot with Function Calling *(Work in Progress)*  
-Python-based chatbot utilizing Google's Gemini AI API with function calling capabilities. Demonstrates proficiency in API integration, argument parsing, and modular Python design with features like calculator functionality and extensible command handling.  
-- GitHub: https://github.com/jacobrluttrull/AI_Bot  
+### **AI_Bot** — Tool-Using AI Coding Agent (REPL + Function Calling)  
+Python-based CLI AI assistant using the OpenAI API with function calling and a multi-step agent loop. Supports one-shot prompts and an interactive REPL mode, with tools for listing files, reading/writing files, running Python scripts, and executing pytest test suites. Demonstrates API integration, safe tool execution, and modular Python design.  
+- GitHub: https://github.com/jacobrluttrull/AI_Bot
 
 ### **prod-diabetic-capstone** — Diabetes Prediction Capstone  
 Machine learning–driven application developed as a capstone project, focused on data processing, model training, and prediction workflows.  
