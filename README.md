@@ -1,7 +1,7 @@
 # Hi, I'm Jacob Luttrull
 
 **Email:** jacobluttrull2@gmail.com  
-**Location:** Montpelier, Ohio, United States  
+**Location:** Northwestern, Ohio, United States  
 
 I'm a computer science graduate and backend-focused programmer actively strengthening my skills through consistent, hands-on project work. I have completed the **Scientific Computing with Python** certification through freeCodeCamp and continue expanding my technical knowledge through real-world application.
 
