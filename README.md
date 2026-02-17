@@ -1,5 +1,4 @@
 # Hi, I'm Jacob Luttrull
-
 **Email:** jacobluttrull2@gmail.com  
 **Location:** Northwestern, Ohio, United States  
 
@@ -31,7 +30,6 @@ This GitHub showcases recent and ongoing projects that reflect my focus on backe
 ---
 
 ## Certifications
-
 - **ITIL® 4 Foundations** — AXELOS  
 - **Linux Essentials** — Linux Professional Institute (LPI)  
 - **Java Programming** — WGU  
@@ -39,7 +37,6 @@ This GitHub showcases recent and ongoing projects that reflect my focus on backe
 ---
 
 ## Technical Focus
-
 - Python scripting and backend development
 - Building and completing end-to-end projects
 - Django web framework
@@ -48,6 +45,11 @@ This GitHub showcases recent and ongoing projects that reflect my focus on backe
 ---
 
 ## Selected Projects
+
+### **Static Site Generator** — Custom Markdown-to-HTML Generator  
+Python-based static site generator built from scratch that converts Markdown content into a fully static HTML/CSS website. Features recursive directory traversal, custom Markdown parser, template-based HTML generation, and configurable base paths for deployment. Deployed live on GitHub Pages.  
+- Live Demo: https://jacobrluttrull.github.io/static_site_generator/
+- GitHub: https://github.com/jacobrluttrull/static_site_generator
 
 ### **AI_Bot** — Tool-Using AI Coding Agent (REPL + Function Calling)  
 Python-based CLI AI assistant using the OpenAI API with function calling and a multi-step agent loop. Supports one-shot prompts and an interactive REPL mode, with tools for listing files, reading/writing files, running Python scripts, and executing pytest test suites. Demonstrates API integration, safe tool execution, and modular Python design.  
@@ -63,4 +65,4 @@ Backend-driven statistics dashboard aggregating and presenting team and performa
 
 ### **python_git** — Build Your Own Git (Python)  
 Educational implementation of core Git concepts to better understand version control internals.  
-- GitHub: https://github.com/jacobrluttrull/python_git  
+- GitHub: https://github.com/jacobrluttrull/python_git
