@@ -4,7 +4,7 @@
 **Location:** Northwestern, Ohio, United States
 **Portfolio:** [jacobrluttrull.com](https://jacobrluttrull.com)
  
-I'm a computer science graduate and backend-focused developer actively strengthening my skills through consistent, hands-on project work. I recently shipped my personal portfolio site using FastAPI and PostgreSQL, and I'm currently working through Boot.dev's Back-end Developer Path (11 of 23 courses completed), with Go next on the track.
+I'm a computer science graduate and backend-focused developer actively strengthening my skills through consistent, hands-on project work. I recently shipped my personal portfolio site using FastAPI and PostgreSQL, and I'm currently working through Boot.dev's Back-end Developer Path (12 of 23 courses completed), with Go next on the track.
  
 This GitHub showcases recent and ongoing projects that reflect my focus on backend systems, problem-solving, and practical software design.
  
