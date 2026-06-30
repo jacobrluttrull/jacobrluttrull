@@ -50,7 +50,7 @@ Full-stack Django web app integrating the CollegeFootballData (CFBD) API to surf
 ### **Pokedex CLI** — Command-Line Pokedex in Go
 REPL-based Pokedex built in Go using the PokéAPI. Features location exploration, Pokemon encounters, a turn-based battle system, multiple pokeball types with different catch rates, nickname and release management, and persistent save data. Includes a thread-safe TTL cache to avoid repeat API calls and a full test suite.
 
-- GitHub: [jacobrluttrull/pokedexcli](https://github.com/jacobrluttrull/pokedexcli)
+- GitHub: [jacobrluttrull/pokedexcli](https://github.com/jacobrluttrull/pokedex)
 
 ### **Static Site Generator** — Custom Markdown-to-HTML Generator
 Python-based static site generator built from scratch that converts Markdown content into a fully static HTML/CSS website. Features recursive directory traversal, a custom Markdown parser (no external libraries), template-based HTML generation, and configurable base paths for deployment. Deployed live on GitHub Pages.
